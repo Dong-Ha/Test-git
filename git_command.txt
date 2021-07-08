@@ -1,0 +1,19 @@
+1. Download basic repository 
+	git clone https://~~~~~.git
+
+2. if you want to upload selected file, then git add wanted_file
+
+3. or you want to upload all file, then git add .
+
+4. write mention you can remember what is changed
+	git commit -m "i need to remember!"
+
+5. we need save github so we last mention this command
+	git push
+
+
+
+
+
+
+
